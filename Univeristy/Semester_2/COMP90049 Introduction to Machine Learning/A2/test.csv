@@ -1,0 +1,10 @@
+ID,job,marital,education,default,housing,loan,contact,month,poutcome,label
+CLIENT0,unemployed,married,primary,no,no,no,cellular,oct,unknown,no
+CLIENT1,services,married,secondary,no,yes,yes,cellular,may,failure,no
+CLIENT2,management,single,tertiary,no,yes,no,cellular,apr,failure,no
+CLIENT3,management,married,tertiary,no,yes,yes,unknown,jun,unknown,no
+CLIENT4,blue-collar,married,secondary,no,yes,no,unknown,may,unknown,no
+CLIENT5,management,single,tertiary,no,no,no,cellular,feb,failure,no
+CLIENT6,self-employed,married,tertiary,no,yes,no,cellular,may,other,no
+CLIENT7,technician,married,secondary,no,yes,no,cellular,may,unknown,no
+CLIENT8,entrepreneur,married,tertiary,no,yes,no,unknown,may,unknown,no
